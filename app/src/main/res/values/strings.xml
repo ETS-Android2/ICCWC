@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">World Cup 2019</string>
+    <string name="afg">Afghanistan</string>
+    <string name="aus">Australia</string>
+    <string name="ban">bangladesh</string>
+    <string name="eng">England</string>
+    <string name="ind">India</string>
+    <string name="nz">New Zealand</string>
+    <string name="pak">Pakistan</string>
+    <string name="rsa">South Africa</string>
+    <string name="sl">Sri Lanka</string>
+    <string name="wi">West Indies</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="abraviation">W = Winner\n
+        RU = Runners Up\n
+        SF = Semi Final\n
+        QF = Quarter Final\n
+        S6 = Super 6\n
+        S8 = Super 8\n
+        GP = Group\n
+        Q = Qualified</string>
+    <string name="historyOfWCC">The History of the ICC Cricket World Cup dates back to 1975, when the first of its kind known as the Prudential World Cup was played in England. The Prudential World Cups.The Men\'s Cricket World Cup was first held in 1975 in England, which was the only nation that was able to put forward the resources to stage an event of such magnitude. The first three tournaments were officially known as the Prudential Cup after the financial services company Prudential plc who sponsored the event.</string>
+
+    <string name="pp_part1">Effective date: February 20, 2019</string>
+    <string name="pp_part2">KP Software Solutions (\"us\", \"we\", or \"our\") operates the https://www.kpsoftwaresolutions.org website and https://play.google.com/store/apps/dev?id=7174269229329822451 the mobile application (the \"Service\").\nWe use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</string>
+    <string name="pp_part3">We collect several different types of information for various purposes to provide and improve our Service to you.</string>
+    <string name="pp_part4">While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:</string>
+    <string name="pp_part5">We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device (\"Usage Data\").\nThis Usage Data may include information such as your computer\'s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\nWhen you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.</string>
+    <string name="pp_part6">We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.\nCookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.\nYou can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.\nExamples of Cookies we use:</string>
+    <string name="pp_part7">KP Software Solutions uses the collected data for various purposes:</string>
+    <string name="pp_part8">Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.\nIf you are located outside Bangladesh and choose to provide information to us, please note that we transfer the data, including Personal Data, to Bangladesh and process it there.\nYour consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.\nKP Software Solutions will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</string>
+    <string name="pp_part9">KP Software Solutions may disclose your Personal Data in the good faith belief that such action is necessary to:</string>
+    <string name="pp_part10">The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</string>
+    <string name="pp_part11">We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.\nThese third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</string>
+    <string name="pp_part12">Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party\'s site. We strongly advise you to review the Privacy Policy of every site you visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</string>
+    <string name="pp_part13">Our Service does not address anyone under the age of 18 (\"Children\").\nWe do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</string>
+    <string name="pp_part14">We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.\nWe will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the \"effective date\" at the top of this Privacy Policy.\nYou are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</string>
+    <string name="pp_part15">If you have any questions about this Privacy Policy, please contact us:</string>
+</resources>

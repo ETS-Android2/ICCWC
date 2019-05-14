@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.kpsoftwaresolutions.iccwc">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5910423341335020~4550602146"/>
+
+        <activity android:name=".PrivacyPolicyActivity"></activity>
+        <activity android:name=".CompanyActivity" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".WUMatchListActivity" />
+        <activity android:name=".MatchListActivity" />
+        <activity android:name=".FixturesActivity" />
+        <activity android:name=".TeamListActivity" />
+        <activity android:name=".HistoryListActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".WiSquadActivity" />
+        <activity android:name=".SlSquadActivity" />
+        <activity android:name=".RsaSquadActivity" />
+        <activity android:name=".PakSquadActivity" />
+        <activity android:name=".NzSquadActivity" />
+        <activity android:name=".IndSquadActivity" />
+        <activity android:name=".EngSquadActivity" />
+        <activity android:name=".AusSquadActivity" />
+        <activity android:name=".AfgSquadActivity" />
+        <activity android:name=".BanSquadActivity" />
+        <activity android:name=".Year2015Activity" />
+        <activity android:name=".Year2011Activity" />
+        <activity android:name=".Year2007Activity" />
+        <activity android:name=".Year2003Activity" />
+        <activity android:name=".Year1999Activity" />
+        <activity android:name=".Year1996Activity" />
+        <activity android:name=".Year1992Activity" />
+        <activity android:name=".Year1987Activity" />
+        <activity android:name=".Year1983Activity" />
+        <activity android:name=".Year1979Activity" />
+        <activity android:name=".Year1975Activity" />
+    </application>
+
+</manifest>
