@@ -122,6 +122,7 @@
             android:layout_height="wrap_content"
             android:clickable="true"
             android:focusable="true"
+            android:onClick="pointsTable"
             app:cardCornerRadius="15dp"
             app:cardBackgroundColor="#16CACA">
             <LinearLayout
@@ -153,7 +154,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         ads:adSize="BANNER"
-        ads:adUnitId="ca-app-pub-5910423341335020/2128097711">
+        ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
     </com.google.android.gms.ads.AdView>
 
 </LinearLayout>

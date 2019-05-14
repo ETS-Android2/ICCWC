@@ -20,7 +20,7 @@ public class HistoryListActivity extends AppCompatActivity {
         setContentView(R.layout.activity_history_list);
 
         // Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713
-        MobileAds.initialize(this, "ca-app-pub-5910423341335020~4550602146");
+        MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713");
         mAdView = findViewById(R.id.adViewH);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);

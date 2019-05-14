@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713
-        MobileAds.initialize(this, "ca-app-pub-5910423341335020~4550602146");
+        MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713");
         mAdView = findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
@@ -92,6 +92,10 @@ public class MainActivity extends AppCompatActivity {
     }
     public void fixture(View view) {
         intent = new Intent(getApplicationContext(),FixturesActivity.class);
+        startActivity(intent);
+    }
+    public void pointsTable(View view) {
+        intent = new Intent(getApplicationContext(),PointsTableActivity.class);
         startActivity(intent);
     }
 }

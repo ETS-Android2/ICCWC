@@ -18,7 +18,7 @@ public class Year1975Activity extends AppCompatActivity {
         setContentView(R.layout.activity_year_1975);
 
         // Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713
-        MobileAds.initialize(this, "ca-app-pub-5910423341335020~4550602146");
+        MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713");
         mAdView = findViewById(R.id.adView75);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
