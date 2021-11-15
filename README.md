@@ -15,7 +15,7 @@ Link:- [https://play.google.com/store/apps/details?id=org.kpsoftwaresolutions.ic
 5. Dynamic Point table.
 <br>
 Here are some screenshots of the project:<br><br>
-Splash Screen:<br><br>
+Splash Screen:<br>
 <img src="screenshots/Picture1.png" height="400" alt="Splash Screen">
 Home Page:<br>
 <img src="screenshots/Picture2.png" height="400" alt="Home Page">
