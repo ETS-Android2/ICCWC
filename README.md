@@ -2,6 +2,7 @@
 An Android application of the World Cup 2019 Cricket Tournament!<br><br>
 During the Internship as a Software Developer at [KPSOFTWARESOLUTIONS](https://kpsoftwaresolutions.org/) I developed this Amazing Android project.<br>
 This project is my first project that was published on PlayStore.😇<br>
+This project was written in Java programming language and developed in the Android Studio IDE.<br>
 I used **Firebase Database** in this application to update the point table.<br>
 I put some unique features on this project to make it different from any other project.<br>
 <br>You can find this project on PlayStore.<br>
